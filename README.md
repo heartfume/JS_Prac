@@ -1,2 +1,2 @@
 # JS_Prac
-JS Practice
+JS Practice from start
