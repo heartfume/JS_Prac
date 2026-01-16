@@ -1,2 +1,2 @@
 # JS_Prac
-JS Practice from start
+JS Practice starts from today.
